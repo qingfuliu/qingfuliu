@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @qingfuliu
-- 👀 I’m interested in c++/golang/os/
-- 🌱 I’m currently learning golang
+- 👀 I’m interested in c++/golang/mysql/redis
+- 🌱 I’m currently learning golang and redis
 - 💞️
 
 <!---
